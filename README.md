@@ -32,4 +32,4 @@ Welcome to my GitHub profile! 👨‍💻 Aspiring Junior Penetration Tester pas
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [Download My Resume PDF](https://github.com/awab128/awab128/blob/main/README.pdf)
 
-My Mechatronics Engineering Carrer Resume [Download My Resume PDF](https://github.com/awab128/awab128/blob/main/README.pdf)
+My Mechatronics Engineering Carrer Resume [Download My Resume](https://github.com/awab128/awab128/blob/main/engineering%20CV%20.pdf)
