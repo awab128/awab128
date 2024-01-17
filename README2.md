@@ -1,10 +1,6 @@
 ### Hi there! 👋 I'm AWAB OSMAN
 
-Welcome to my GitHub profile! 👨‍💻 
-ChatGPT
-Certainly! Here's a brief GitHub profile summary based on the provided resume:
-
-🔧 Mechatronics Engineer | Maintenance Specialist | MEP Systems Designer
+Welcome to my GitHub profile! 🔧 Mechatronics Engineer | Maintenance Specialist | MEP Systems Designer
 
 Dedicated Mechatronics Engineer with a results-oriented mindset, focused on contributing engineering expertise. Proven track record in maintenance, design, and systems integration for operational success.
 
