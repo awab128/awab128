@@ -30,3 +30,4 @@ Welcome to my GitHub profile! 👨‍💻 Aspiring Junior Penetration Tester pas
 [![](https://visitcount.itsvg.in/api?id=awab128&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[Download My Resume PDF](https://github.com/awab128/awab128/blob/main/README.pdf)
