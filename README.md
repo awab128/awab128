@@ -1,7 +1,21 @@
-# 💫 About Me:
-I'am currently learning 
+### Hi there! 👋 I'm AWAB OSMAN
 
+Welcome to my GitHub profile! 👨‍💻 Aspiring Junior Penetration Tester passionate about cybersecurity and ethical hacking. I thrive on exploring the depths of systems, identifying vulnerabilities, and developing effective security solutions.
 
+#### 🔍 What I'm Currently Working On:
+- Strengthening my skills in penetration testing methodologies.
+- Exploring various security tools such as Burp Suite, Metasploit, and Wireshark.
+- Building a solid foundation in web application security.
+
+#### 💡 What I Bring to the Table:
+- Solid understanding of networking protocols and security concepts.
+- Enthusiastic learner with a commitment to staying updated on the latest security trends.
+- Strong problem-solving skills and attention to detail.
+  
+### 📚 Learning Journey:
+- Currently pursuing certifications like eLearnSecurity's eJPT to enhance my skills.
+- Actively participating in CTFs and online security challenges.
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/awabmohamedelhassan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@awab165) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/awab-osman-94b503206/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@awabmohamedelhassan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@awab128) 
 
