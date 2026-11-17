@@ -2,7 +2,7 @@
 
 # Hi, I'm Awab Osman 👋
 
-### Mechatronics Engineer · I build bots, automation & web apps · Ethical hacking & pentesting
+### MEP Project Engineer (Healthcare) · Mechatronics Engineer · I build bots & web apps · Ethical hacking
 
 📍 Saudi Arabia &nbsp;·&nbsp; 🗣️ Arabic (native) · English (professional)
 
@@ -14,9 +14,9 @@
 
 ## 🧭 About me
 
-I'm a **mechatronics engineer** who likes building things that run by themselves, from a rain-sensing Arduino umbrella to a bot that checks Saudi online deals around the clock.
+I'm a **mechatronics engineer** with about **five years of experience** in Saudi Arabia and Sudan across **HVAC technical sales, MEP project engineering, MEP design and equipment maintenance**. Today I deliver the MEP scope for critical healthcare spaces such as **operating theatres, MRI, PET-CT and angiography suites**.
 
-My background is in **MEP / HVAC design** and **industrial maintenance**. Today I build **Python automation, Telegram bots and web apps**, and I'm training in **penetration testing and ethical hacking**. I bring an engineer's habits to each of them: measure first, then fix it properly.
+Outside work I like building things that run by themselves, from a rain-sensing Arduino umbrella to a bot that checks Saudi online deals around the clock. I build **Python automation, Telegram bots and web apps**, and I'm training in **penetration testing and ethical hacking**.
 
 <table>
   <tr>
@@ -36,7 +36,7 @@ My background is in **MEP / HVAC design** and **industrial maintenance**. Today 
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Engineering</h3>
-      MEP / HVAC design coordination, PLC and controls, Arduino and embedded C++, CAD/BIM in AutoCAD, Revit and SolidWorks, and plant maintenance.
+      Healthcare MEP (cleanrooms, pressure balancing, medical gas), HVAC system selection and proposals, testing and commissioning, AutoCAD, Revit and SolidWorks, plus PLC and Arduino controls.
     </td>
   </tr>
 </table>
@@ -63,24 +63,46 @@ My graduation project: an Arduino umbrella that **opens and closes on its own** 
 
 ## 💼 Experience
 
-**General Maintenance Engineer** · Taweel Star Factory, Khartoum · *2022 – 2023*
-- Routine and emergency maintenance of low-voltage systems, CNC machines and production lines
-- Installation, troubleshooting and repair that cut **unplanned downtime by 20%**
-- Strict maintenance protocols that extended **critical machinery lifespan by 25%**
+**MEP Project Engineer, Healthcare Division** · Installation Systems for Trading & Contracting Co. (ISTC – TRKEBAT), Riyadh · *Jun 2024 – Present*
+- Lead the MEP scope of hospital and medical-imaging projects from start to handover, coordinating HVAC, electrical, medical gas and low-voltage works
+- Turn equipment makers' requirements (**HVAC pressure balancing, room conditioning, electrical loads**) into site works, and check installations against standards, specs and safety rules
+- Act as the technical link between equipment vendors, civil contractors, biomedical teams and radiological safety authorities
+- Coordinate testing and commissioning to **hospital infection-control and MOH standards**, and prepare technical reports for stakeholders
 
-**MEP Systems Designer** · UGC International, Khartoum · *2021 – 2022*
-- Produced accurate MEP drawings together with the design engineers
-- Ran virtual design coordination for **HVAC, mechanical, plumbing and piping**
+**Sales Engineer, HVAC & MEP Solutions** · Aamal Engineers, Khobar · *Jun 2023 – Feb 2024*
+- Assessed each client's needs and designed and proposed the right HVAC / MEP system, using AutoCAD, Revit and Excel
+- Managed HVAC projects end to end, from the first sales stage to completion, on time and within budget
+- Built long-term customer relationships and gave after-sales troubleshooting and technical support
+
+**General Maintenance Engineer** · Taweel Star Factory, Khartoum, Sudan · *Mar 2022 – Apr 2023*
+- Cut **unplanned downtime by 20%** with more efficient maintenance practices
+- Extended the **service life of critical machinery by 25%** through strict maintenance protocols
+- Led installation and troubleshooting of production machinery with minimal disruption
+
+**MEP Systems Designer** · UGC International, Khartoum, Sudan · *Jun 2021 – Mar 2022*
+- Designed mechanical, electrical and plumbing systems for construction projects to industry standards
+- Produced accurate MEP drawings with the design engineers, in line with building codes and project specs
+
+### 🏥 Selected healthcare projects
+| Project | Where | My role |
+|---|---|---|
+| 7 operating theatres: renovation & pendant installation | King Faisal Specialist Hospital, Jeddah | Directed all MEP works: HVAC cleanroom systems, medical gas, modular pendants, lighting control, low-voltage networks |
+| MRI installation | National Guard Hospital, Madinah | Full MEP scope: HVAC ducting & room conditioning, electrical, lead shielding; coordinated RF cage and equipment delivery |
+| PET-CT installation | Aljabr Hospital | Supervised HVAC, medical gas, lead shielding and electrical works; coordinated vendors and radiological safety authorities |
+| Biplane angiography suite | Armed Forces Hospital, Taif | Met the maker's HVAC pressure-balancing and electrical-load requirements; integration testing and handover |
+| 6 X-ray rooms | Security Forces Hospital, Al Malaz, Riyadh | Delivered six radiology rooms with lead shielding and environmental controls to MOH radiation-safety rules |
 
 ---
 
 ## 🎓 Education & training
 
-**B.Sc. Mechatronics Engineering**, The Future University, Khartoum *(2015 – 2021)*
+**B.Sc. Mechatronics Engineering**, Future University, Khartoum *(graduated Feb 2021)*. Leadership role in the Mechatronics Society: organized workshops, seminars and industry visits.
+
+**Saudi Council of Engineers:** registered Mechatronics Engineer
 
 | Engineering | Security |
 |---|---|
-| Mini-master in MEP (Mechanical, Electrical & Plumbing) | Google Cybersecurity Certificate (Coursera) |
+| Certified MEP Engineer (Mechanical, Electrical & Plumbing) | Google Cybersecurity Certificate (Coursera) |
 | Certified PLC (Programmable Logic Control) Engineer | eJPT training: course and labs completed |
 | Autodesk AutoCAD & Revit Designer | CEH training: course and labs completed |
 | Certified SolidWorks Designer | OSCP training: course and labs completed |
